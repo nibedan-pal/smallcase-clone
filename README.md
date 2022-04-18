@@ -96,30 +96,7 @@
 
 
   
-## Authors
 
-#### Mansi Sindhu
-> Github: [mansisindhu](https://github.com/mansisindhu)
-> 
-> LinkedIn: [Mansi sindhu](linkedin.com/in/mansi-sindhu)
-
-
-#### Santosh Konappanavar
-> Github: [SantoshKonappanavar](https://github.com/SantoshKonappanavar)
-> 
-> LinkedIn: [Santosh Konappanavar](https://www.linkedin.com/in/santosh-konappanavar/)
-
-
-#### Ashwani Kumar Pankaj
-> Github: [ashwanikpankaj](https://github.com/SantoshKonappanavar)
-> 
-> LinkedIn: [Ashwani Kumar Pankaj](https://www.linkedin.com/in/ashnit8294)
-
-
-#### Anand Kumar Sharma
-> Github: [anandKmrSharma](https://github.com/anandKmrSharma)
-> 
-> LinkedIn: [Anand Kumar Sharma](linkedin.com/in/aks31397)
 
 
 
