@@ -5,7 +5,6 @@
 > 
 > [smallcase website](https://smallcase.zerodha.com/)
  
-> We have cloned the smallcase website as project of our construct week at **Masai School**.
 > We built this website fully responsive and implemented maximum design.
  
   
